@@ -12,7 +12,7 @@ Step 2 : Renaming the columns for easy analysis
 Step 3 : Dealing with Null values in every column
 Step 4 : Dropping the duplicate values
 Step 5 : Removing the irrelevant texts from each column
-Step 6 : Checking for unique values and handling teh irrelevant ones
+Step 6 : Checking for unique values and handling the irrelevant ones
 Step 7 : Removing the special characters from the dataset
 
 We finally do our analysis using SQL queries.
